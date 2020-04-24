@@ -1,0 +1,1 @@
+{"startTime":"2017-12-29 11:58","resultVector":[{"port":"*","app":"Unknown_App","dscpCode":"0","traffic":"4.77 MB","dscp":"Default","src":"20.xx.xx.2","dst":"10.xx.xx.1","dstport":"*","prot":"Unknown"}],"Type":"DestinationIN","devDetails":{"deviceID":"5000006","Total":"4.77 MB"},"TimeZone":"America/Chicago","endTime":"2018-01-05 11:58"}
